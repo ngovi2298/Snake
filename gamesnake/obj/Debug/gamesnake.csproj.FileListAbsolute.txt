@@ -1,0 +1,10 @@
+D:\Library\HomeWork\gamesnake\gamesnake\bin\Debug\gamesnake.exe.config
+D:\Library\HomeWork\gamesnake\gamesnake\bin\Debug\gamesnake.exe
+D:\Library\HomeWork\gamesnake\gamesnake\bin\Debug\gamesnake.pdb
+D:\Library\HomeWork\gamesnake\gamesnake\obj\Debug\gamesnake.csprojAssemblyReference.cache
+D:\Library\HomeWork\gamesnake\gamesnake\obj\Debug\gamesnake.Form1.resources
+D:\Library\HomeWork\gamesnake\gamesnake\obj\Debug\gamesnake.Properties.Resources.resources
+D:\Library\HomeWork\gamesnake\gamesnake\obj\Debug\gamesnake.csproj.GenerateResource.cache
+D:\Library\HomeWork\gamesnake\gamesnake\obj\Debug\gamesnake.csproj.CoreCompileInputs.cache
+D:\Library\HomeWork\gamesnake\gamesnake\obj\Debug\gamesnake.exe
+D:\Library\HomeWork\gamesnake\gamesnake\obj\Debug\gamesnake.pdb
