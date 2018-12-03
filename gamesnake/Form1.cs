@@ -35,18 +35,11 @@ namespace gamesnake
         }
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-        if(e.KeyData==Keys.Space)
+        if (e.KeyData == Keys.Space)
             {
+                timer1.Enabled = true;
+                left = false; right = false; up = false; down = false;
                 
-                if (timer1.Enabled == false)
-                    timer1.Enabled = true; 
-                else
-                    timer1.Enabled = false;
-                up = false;
-                down = false;
-                left = false;
-                right = false;
-
             }
             if(e.KeyData==Keys.Up && down ==false)
             {
